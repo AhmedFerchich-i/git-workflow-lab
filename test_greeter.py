@@ -1,6 +1,6 @@
 import unittest
 
-from greeter import GREETINGS, greet
+from greeter import GREETINGS, __version__, greet
 
 
 class GreetTest(unittest.TestCase):
@@ -18,6 +18,9 @@ class GreetTest(unittest.TestCase):
 
     def test_shout(self):
         self.assertEqual(greet("Ahmed", shout=True), "HELLO, AHMED!")
+
+    def test_version_looks_like_semver(self):
+        self.assertRegex(__version__, r"^\d+\.\d+\.\d+$")
 
     def test_every_greeting_is_filled_in(self):
         for lang, word in GREETINGS.items():

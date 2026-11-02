@@ -1,6 +1,8 @@
 """A tiny multilingual greeter, used for practising Git with a team."""
 import sys
 
+__version__ = "1.0.0"
+
 GREETINGS = {
     "en": "Hello",
     "fr": "Bonjour",
@@ -20,6 +22,9 @@ def main(argv):
     lang = "en"
     shout = False
     names = []
+    if "--version" in argv:
+        print(__version__)
+        return
     for arg in argv:
         if arg.startswith("--lang="):
             lang = arg.split("=", 1)[1]
