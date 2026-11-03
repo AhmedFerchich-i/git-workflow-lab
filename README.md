@@ -24,3 +24,4 @@ A tiny multilingual greeter. Its real purpose is practising Git with a teammate 
 ## Changelog
 
 - Project created.
+- 2026-11-03: Updated the usage examples.
