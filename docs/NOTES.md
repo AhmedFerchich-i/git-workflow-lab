@@ -3,6 +3,7 @@
 ## Sam's notes
 
 - Sam: Tidied the README wording.
+- Sam: Checked the tests on a fresh clone.
 
 ## Your notes
 
