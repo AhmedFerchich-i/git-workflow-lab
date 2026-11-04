@@ -7,6 +7,7 @@ GREETINGS = {
     "en": "Hello",
     "fr": "Bonjour",
     "es": "Hola",
+    "ar": "Mrahaba",
 }
 
 
