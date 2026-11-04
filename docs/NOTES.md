@@ -5,6 +5,7 @@
 - Sam: Tidied the README wording.
 - Sam: Checked the tests on a fresh clone.
 - Sam: Should we support regional variants like fr-CA?
+- Sam: Checked the tests on a fresh clone.
 
 ## Your notes
 
