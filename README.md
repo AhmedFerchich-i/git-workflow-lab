@@ -14,6 +14,7 @@ A tiny multilingual greeter. Its real purpose is practising Git with a teammate 
 - en: Hello
 - fr: Bonjour
 - es: Hola
+- hu: Szia
 
 ## Rules of this repository
 
