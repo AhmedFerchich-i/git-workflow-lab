@@ -1,4 +1,4 @@
-"""A tiny multilingual greeter, used for practising Git with a team."""
+"""Greet people in several languages. Built for Git practice."""
 import sys
 
 __version__ = "1.0.0"
