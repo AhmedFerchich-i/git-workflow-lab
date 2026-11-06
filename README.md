@@ -26,3 +26,4 @@ A tiny multilingual greeter. Its real purpose is practising Git with a teammate 
 
 - Project created.
 - 2026-11-03: Updated the usage examples.
+- 2026-11-06: Thinking about a --repeat flag.
