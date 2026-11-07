@@ -22,6 +22,9 @@ class GreetTest(unittest.TestCase):
     def test_version_looks_like_semver(self):
         self.assertRegex(__version__, r"^\d+\.\d+\.\d+$")
 
+    def test_quiet(self):
+        self.assertEqual(greet("Ahmed", quiet=True), "hello, ahmed!")
+
     def test_every_greeting_is_filled_in(self):
         for lang, word in GREETINGS.items():
             self.assertTrue(word.strip(), f"empty greeting for {lang}")

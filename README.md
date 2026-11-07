@@ -7,6 +7,7 @@ A tiny multilingual greeter. Its real purpose is practising Git with a teammate 
     python greeter.py Ahmed
     python greeter.py Ahmed --lang=fr
     python greeter.py Ahmed --shout
+    python greeter.py Ahmed --quiet
     python -m unittest
 
 ## Languages
