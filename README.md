@@ -30,3 +30,4 @@ A tiny multilingual greeter. Its real purpose is practising Git with a teammate 
 - 2026-11-03: Updated the usage examples.
 - 2026-11-06: Thinking about a --repeat flag.
 - 2026-11-07: Reviewed open pull requests.
+- 2026-11-08: Tidied the README wording.
