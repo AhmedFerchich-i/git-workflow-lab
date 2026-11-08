@@ -1,7 +1,7 @@
 """Greet people in several languages. Built for Git practice."""
 import sys
 
-__version__ = "1.0.2"
+__version__ = "1.0.3"
 
 GREETINGS = {
     "en": "Hello",
