@@ -33,3 +33,4 @@ A tiny multilingual greeter. Its real purpose is practising Git with a teammate 
 - 2026-11-07: Reviewed open pull requests.
 - 2026-11-08: Tidied the README wording.
 - 2026-11-10: Added a note about the release process.
+- 2026-11-11: We could print the greeting in colour.
