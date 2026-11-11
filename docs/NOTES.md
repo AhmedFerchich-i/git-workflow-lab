@@ -6,6 +6,7 @@
 - Sam: Checked the tests on a fresh clone.
 - Sam: Should we support regional variants like fr-CA?
 - Sam: Checked the tests on a fresh clone.
+- Sam: Thinking about a --repeat flag.
 
 ## Your notes
 
