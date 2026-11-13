@@ -18,6 +18,7 @@ A tiny multilingual greeter. Its real purpose is practising Git with a teammate 
 - hu: Szia
 - nl: Hallo
 - fi: Hei
+- it: Ciao
 
 ## Rules of this repository
 
