@@ -10,6 +10,7 @@ GREETINGS = {
     "hu": "Szia",
     "nl": "Hallo",
     "fi": "Hei",
+    "it": "Ciao",
 }
 
 
