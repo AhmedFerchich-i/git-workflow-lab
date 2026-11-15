@@ -9,6 +9,7 @@
 - Sam: Thinking about a --repeat flag.
 - Sam: We could print the greeting in colour.
 - Sam: Checked the tests on a fresh clone.
+- Sam: Remember: fetch before you start work.
 
 ## Your notes
 
