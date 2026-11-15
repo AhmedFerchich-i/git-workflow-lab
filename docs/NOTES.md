@@ -8,6 +8,7 @@
 - Sam: Checked the tests on a fresh clone.
 - Sam: Thinking about a --repeat flag.
 - Sam: We could print the greeting in colour.
+- Sam: Checked the tests on a fresh clone.
 
 ## Your notes
 
