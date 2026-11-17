@@ -13,6 +13,7 @@ GREETINGS = {
     "it": "Ciao",
     "da": "Hej",
     "pt": "Ola",
+    "ga": "Dia duit",
 }
 
 
