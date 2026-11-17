@@ -12,6 +12,7 @@ GREETINGS = {
     "fi": "Hei",
     "it": "Ciao",
     "da": "Hej",
+    "pt": "Ola",
 }
 
 
