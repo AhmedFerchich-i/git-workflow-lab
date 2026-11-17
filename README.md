@@ -20,6 +20,7 @@ A tiny multilingual greeter. Its real purpose is practising Git with a teammate 
 - fi: Hei
 - it: Ciao
 - da: Hej
+- pt: Ola
 
 ## Rules of this repository
 
