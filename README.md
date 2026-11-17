@@ -22,6 +22,7 @@ A tiny multilingual greeter. Its real purpose is practising Git with a teammate 
 - da: Hej
 - pt: Ola
 - ga: Dia duit
+- ro: Salut
 
 ## Rules of this repository
 
