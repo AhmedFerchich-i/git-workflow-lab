@@ -15,6 +15,7 @@ GREETINGS = {
     "pt": "Ola",
     "ga": "Dia duit",
     "ro": "Salut",
+    "hi": "Namaste",
 }
 
 

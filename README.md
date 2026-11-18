@@ -23,6 +23,7 @@ A tiny multilingual greeter. Its real purpose is practising Git with a teammate 
 - pt: Ola
 - ga: Dia duit
 - ro: Salut
+- hi: Namaste
 
 ## Rules of this repository
 
