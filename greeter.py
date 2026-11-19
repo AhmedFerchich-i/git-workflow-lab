@@ -16,6 +16,7 @@ GREETINGS = {
     "ga": "Dia duit",
     "ro": "Salut",
     "hi": "Namaste",
+    "id": "Halo",
 }
 
 

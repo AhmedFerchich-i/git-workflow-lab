@@ -24,6 +24,7 @@ A tiny multilingual greeter. Its real purpose is practising Git with a teammate 
 - ga: Dia duit
 - ro: Salut
 - hi: Namaste
+- id: Halo
 
 ## Rules of this repository
 
