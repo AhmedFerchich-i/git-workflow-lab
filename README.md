@@ -44,3 +44,4 @@ A tiny multilingual greeter. Its real purpose is practising Git with a teammate 
 - 2026-11-14: Thinking about a --repeat flag.
 - 2026-11-18: Updated the usage examples.
 - 2026-11-20: Remember: fetch before you start work.
+- 2026-11-20: Should we support regional variants like fr-CA?
