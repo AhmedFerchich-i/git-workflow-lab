@@ -25,6 +25,7 @@ A tiny multilingual greeter. Its real purpose is practising Git with a teammate 
 - ro: Salut
 - hi: Namaste
 - id: Halo
+- de: Hallo
 
 ## Rules of this repository
 

@@ -17,6 +17,7 @@ GREETINGS = {
     "ro": "Salut",
     "hi": "Namaste",
     "id": "Halo",
+    "de": "Hallo",
 }
 
 
