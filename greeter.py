@@ -1,4 +1,4 @@
-"""Multilingual greetings from the command line (a Git practice project)."""
+"""Greet people in several languages. Built for Git practice."""
 import sys
 
 __version__ = "1.0.5"
