@@ -26,6 +26,7 @@ A tiny multilingual greeter. Its real purpose is practising Git with a teammate 
 - hi: Namaste
 - id: Halo
 - de: Hallo
+- ja: Konnichiwa
 
 ## Rules of this repository
 
