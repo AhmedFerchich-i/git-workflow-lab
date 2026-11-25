@@ -27,6 +27,7 @@ A tiny multilingual greeter. Its real purpose is practising Git with a teammate 
 - id: Halo
 - de: Hallo
 - ja: Konnichiwa
+- sw: Habari
 
 ## Rules of this repository
 
