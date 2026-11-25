@@ -19,6 +19,7 @@ GREETINGS = {
     "id": "Halo",
     "de": "Hallo",
     "ja": "Konnichiwa",
+    "sw": "Habari",
 }
 
 
