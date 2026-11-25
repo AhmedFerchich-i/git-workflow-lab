@@ -12,6 +12,7 @@
 - Sam: Remember: fetch before you start work.
 - Sam: Thinking about a --repeat flag.
 - Sam: We could print the greeting in colour.
+- Sam: Should we support regional variants like fr-CA?
 
 ## Your notes
 
