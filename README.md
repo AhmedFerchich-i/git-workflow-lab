@@ -51,3 +51,4 @@ A tiny multilingual greeter. Its real purpose is practising Git with a teammate 
 - 2026-11-21: Someone should write a CONTRIBUTING guide.
 - 2026-11-21: Thinking about a --repeat flag.
 - 2026-11-22: Should we support regional variants like fr-CA?
+- 2026-11-26: Thinking about a --repeat flag.
