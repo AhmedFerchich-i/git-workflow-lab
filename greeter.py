@@ -20,6 +20,7 @@ GREETINGS = {
     "de": "Hallo",
     "ja": "Konnichiwa",
     "sw": "Habari",
+    "cs": "Ahoj",
 }
 
 

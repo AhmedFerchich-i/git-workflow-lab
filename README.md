@@ -28,6 +28,7 @@ A tiny multilingual greeter. Its real purpose is practising Git with a teammate 
 - de: Hallo
 - ja: Konnichiwa
 - sw: Habari
+- cs: Ahoj
 
 ## Rules of this repository
 
