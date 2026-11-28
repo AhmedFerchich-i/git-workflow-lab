@@ -29,6 +29,7 @@ A tiny multilingual greeter. Its real purpose is practising Git with a teammate 
 - ja: Konnichiwa
 - sw: Habari
 - cs: Ahoj
+- tr: Merhaba
 
 ## Rules of this repository
 
