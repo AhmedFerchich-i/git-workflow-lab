@@ -21,6 +21,7 @@ GREETINGS = {
     "ja": "Konnichiwa",
     "sw": "Habari",
     "cs": "Ahoj",
+    "tr": "Merhaba",
 }
 
 
